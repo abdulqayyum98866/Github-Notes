@@ -235,3 +235,30 @@ DevOps-Notes/
 - [Linux Permissions] :(https://www.geeksforgeeks.org/linux-file-permissions/)
 - [AWS EC2 Docs] :(https://docs.aws.amazon.com/ec2/)
 
+  ## Extra:
+  ### 1 - Adding notes
+  **Note:**
+
+### 2 - text
+```text
+
+Used for plain text / output
+
+Directory: E:\Keys
+
+Mode   LastWriteTime   Length Name
+----   -------------   ------ ----
+-a---                 1674    DevOps.pem
+```
+
+```bash
+command here
+```
+
+> **Note:** $indicates a normal user shell prompt.
+Do not type $ while running the command.
+
+
+
+
+
